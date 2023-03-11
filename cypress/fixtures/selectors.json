@@ -1,0 +1,12 @@
+{
+  "header1": "h1",
+  "subtitle": ".page-header__subtitle",
+  "email": "[type=email]",
+  "weekDay": ".page-nav__day",
+  "hall": ".movie-seances__hall",
+  "row": ".buying-scheme__row:nth-child",
+  "seat": "span:nth-child",
+  "button": ".acceptin-button",
+  "header2": "h2",
+  "chairs": ".ticket__chairs"
+}

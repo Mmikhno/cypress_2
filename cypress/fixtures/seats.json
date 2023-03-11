@@ -1,0 +1,21 @@
+[
+  {
+    "data": [{ "row": 4, "seat": 4 }],
+    "expected": "4/4"
+  },
+  {
+    "data": [
+      { "row": 2, "seat": 3 },
+      { "row": 2, "seat": 4 }
+    ],
+    "expected": "2/3, 2/4"
+  },
+  {
+    "data": [
+      { "row": 2, "seat": 6 },
+      { "row": 3, "seat": 9 },
+      { "row": 6, "seat": 2 }
+    ],
+    "expected": "2/6, 3/9, 6/2"
+  }
+]
